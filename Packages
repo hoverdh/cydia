@@ -22,13 +22,13 @@ Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Version: 1.4-4
 Filename: ./debs/LocalIAPstore1.4-4.deb
-Size: 70246
+Size: 70770
 Description: Pwns In-App purchases on iOS 7 and 8. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
 Name: LocalIAPStore
 Icon: 
 Author: Pangu
-MD5sum: c0fdcf2869d44fa70ddc6ca855b2e78c
-SHA1: ca1c0fa0f46e4c0cf9512921e8950cc7b402d63e
-SHA256: 7d130f194f39fccbc0141e376c7d6eb452072a899362a7c1ebfc5fa1db4c9a66
+MD5sum: 2519b667fb24d03e9d2e8ebee6724f1f
+SHA1: 1a962bd2ac6ae31bb445184e07c423c89fd18351
+SHA256: d2ef0b9e3ee6dde1e0123d927d249c0d5f983eec1ee5f2a701ed4ffae2633fcd
 Depiction: https://hoverdh.github.io/cydia/packageInfo/LocalIAPStore.html
 
