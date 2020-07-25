@@ -35,7 +35,7 @@ Depiction: https://hoverdh.github.io/cydia/packageInfo/LocalIAPStore.html
 Package: Laxus.iOSGodsiAPCracker
 Section: Tweaks
 Maintainer: Laxus
-Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Version: 1.0-2
 Filename: ./debs/E:\hover\git\cydia\debs\iOSGodsiAPCracker1.0-2.deb
