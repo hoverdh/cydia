@@ -32,20 +32,20 @@ SHA1: 1a962bd2ac6ae31bb445184e07c423c89fd18351
 SHA256: d2ef0b9e3ee6dde1e0123d927d249c0d5f983eec1ee5f2a701ed4ffae2633fcd
 Depiction: https://hoverdh.github.io/cydia/packageInfo/LocalIAPStore.html
 
-Package: Laxus.iOSGodsiAPCracker
+Package: Laxus.iAPCracker
 Section: Tweaks
 Maintainer: Laxus
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Version: 1.0-2
-Filename: ./debs/iAPCracker1.0-2.deb
-Size: 18412
+Filename: ./debs/iAPCracker1.0-2+debug.deb
+Size: 17604
 Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
 Name: iOSGods iAP Cracker
 Icon: 
 Author: Laxus
-MD5sum: f609fdef7758b9f6c5b544781c58ded7
-SHA1: 6c7108cb350d2442aebc099fe3b2feaf939a55d6
-SHA256: 9f4b9857cd7a8286a14b477e5796cc14d7d71224fb8d8987a5a0324c4871aeb7
-Depiction: https://hoverdh.github.io/cydia/packageInfo/iOSGodsiAPCracker.html
+MD5sum: 65d7db2a9824693e838298edebe7ffc6
+SHA1: 9bb8e94eed3442d4366fde743b44f9f209f41854
+SHA256: ad6f51b59bd4fe6a07a03a241844dfed35133e0e3b0e90aa269d2899e84e958b
+Depiction: https://hoverdh.github.io/cydia/packageInfo/iAPCracker.html
 
