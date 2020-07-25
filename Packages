@@ -38,7 +38,7 @@ Maintainer: Laxus
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Version: 1.0-2
-Filename: ./debs/E:\hover\git\cydia\debs\iOSGodsiAPCracker1.0-2.deb
+Filename: ./debs/iAPCracker1.0-2.deb
 Size: 18412
 Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
 Name: iOSGods iAP Cracker
