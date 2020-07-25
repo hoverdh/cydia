@@ -15,9 +15,9 @@ SHA1: 80be6e6f238b34e4d42b7be542d26810334b0cb4
 SHA256: 20c0015bda83953c2f593cfa7cc25e6a2aad36bcb2d587ae2f95bd5dcc454be8
 Depiction: https://hoverdh.github.io/cydia/packageInfo/AltDaemon.html
 
-Package: com.localiapstore
+Package: Pangu.LocalIAPStore
 Section: Tweaks
-Maintainer: LocalIAPStore
+Maintainer: Pangu
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Version: 1.4-4
@@ -26,9 +26,9 @@ Size: 70246
 Description: Pwns In-App purchases on iOS 7 and 8. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
 Name: LocalIAPStore
 Icon: 
-Author: LocalIAPStore
+Author: Pangu
 MD5sum: c0fdcf2869d44fa70ddc6ca855b2e78c
 SHA1: ca1c0fa0f46e4c0cf9512921e8950cc7b402d63e
 SHA256: 7d130f194f39fccbc0141e376c7d6eb452072a899362a7c1ebfc5fa1db4c9a66
-Depiction: 
+Depiction: https://hoverdh.github.io/cydia/packageInfo/LocalIAPStore.html
 
