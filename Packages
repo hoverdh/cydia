@@ -2,7 +2,6 @@ Package: com.rileytestut.altdaemon
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Riley Testut
-Installed-Size: 584
 Depends: firmware (>=12.2)
 Filename: ./debs/AltDaemon.deb
 Size: 625562
@@ -17,13 +16,12 @@ Package: Pangu.LocalIAPStore
 Version: 1.4-4
 Architecture: iphoneos-arm
 Maintainer: Pangu
-Installed-Size: 584
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
-Filename: ./debs/LocalIAPstore1.4-4.deb
-Size: 70770
-MD5sum: 2519b667fb24d03e9d2e8ebee6724f1f
-SHA1: 1a962bd2ac6ae31bb445184e07c423c89fd18351
-SHA256: d2ef0b9e3ee6dde1e0123d927d249c0d5f983eec1ee5f2a701ed4ffae2633fcd
+Filename: ./debs/com.pangu.localiapstore_1.4-4.deb
+Size: 70728
+MD5sum: 8DAA908628A1289BEB4E7F5AC37CAD37
+SHA1: FBB856613FEF7D6067CB1528F8D10267B2163152
+SHA256: DFD9A0671AE7271124E39D8BAD753AE799FE6E78EAEA8F59A88EAFFA216F5196
 Section: Tweaks
 Description: Pwns In-App purchases on iOS 7 and 8. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
 Name: LocalIAPStore
