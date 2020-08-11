@@ -1,4 +1,4 @@
-Package: com.rileytestut.altdaemon
+Package: rileytestut.altdaemon
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Riley Testut
@@ -12,7 +12,7 @@ Section: System
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Name: AltDaemon
 
-Package: Pangu.LocalIAPStore
+Package: pangu.localiapstore
 Version: 1.4-4
 Architecture: iphoneos-arm
 Maintainer: Pangu
@@ -25,3 +25,17 @@ SHA256: dfd9a0671ae7271124e39d8bad753ae799fe6e78eaea8f59a88eaffa216f5196
 Section: Tweaks
 Description: Pwns In-App purchases on iOS 7 and 8. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
 Name: LocalIAPStore
+
+Package: c0pyn1nja.crackerxi+
+Version: 1.1.16
+Architecture: iphoneos-arm
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0)
+Filename: ./debs/localiapstore_1.4-4.deb
+Size: 6190888
+MD5sum: 7bb99e462027cd0ffac1c753caef01f9
+SHA1: 8da33a59a9d3f1192a772f2d1d74c9e6653937c5
+SHA256: 49aee41fc415bb0a1e707ca170fda87bb15892c216f61ae0d9a2dc71ea75af83
+Section: System
+Description: Decrypts iOS Apps
+Name: CrackerXI+
