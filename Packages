@@ -19,9 +19,9 @@ Maintainer: Pangu
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Filename: ./debs/localiapstore_1.4-4.deb
 Size: 70728
-MD5sum: 8DAA908628A1289BEB4E7F5AC37CAD37
-SHA1: FBB856613FEF7D6067CB1528F8D10267B2163152
-SHA256: DFD9A0671AE7271124E39D8BAD753AE799FE6E78EAEA8F59A88EAFFA216F5196
+MD5sum: 8daa908628a1289beb4e7f5ac37cad37
+SHA1: fbb856613fef7d6067cb1528f8d10267b2163152
+SHA256: dfd9a0671ae7271124e39d8bad753ae799fe6e78eaea8f59a88eaffa216f5196
 Section: Tweaks
 Description: Pwns In-App purchases on iOS 7 and 8. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
 Name: LocalIAPStore
