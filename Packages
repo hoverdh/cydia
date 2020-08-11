@@ -13,7 +13,6 @@ Author: Riley Testut
 MD5sum: 435fdddfedbf6f729a52f5fa1357e848
 SHA1: 80be6e6f238b34e4d42b7be542d26810334b0cb4
 SHA256: 20c0015bda83953c2f593cfa7cc25e6a2aad36bcb2d587ae2f95bd5dcc454be8
-Depiction: https://hoverdh.github.io/cydia/packageInfo/AltDaemon.html
 
 Package: Pangu.LocalIAPStore
 Section: Tweaks
@@ -30,4 +29,3 @@ Author: Pangu
 MD5sum: 2519b667fb24d03e9d2e8ebee6724f1f
 SHA1: 1a962bd2ac6ae31bb445184e07c423c89fd18351
 SHA256: d2ef0b9e3ee6dde1e0123d927d249c0d5f983eec1ee5f2a701ed4ffae2633fcd
-Depiction: https://hoverdh.github.io/cydia/packageInfo/LocalIAPStore.html
