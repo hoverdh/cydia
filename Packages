@@ -12,31 +12,20 @@ Section: System
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Name: AltDaemon
 
-Package: com.pangu.localiapstore
-Version: 1.4-4
+Package: net.sarahh12099.youtubereborn
+Version: 1.0.4.6
 Architecture: iphoneos-arm
-Maintainer: Pangu
-Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
-Filename: ./debs/localiapstore_1.4-4.deb
-Size: 70728
-MD5sum: 8daa908628a1289beb4e7f5ac37cad37
-SHA1: fbb856613fef7d6067cb1528f8d10267b2163152
-SHA256: dfd9a0671ae7271124e39d8bad753ae799fe6e78eaea8f59a88eaffa216f5196
+Maintainer: SarahH12099
+Installed-Size: 340
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers
+Replaces: com.twickd.sarahh12099.youtube-reborn
+Filename: ./debs/youtubereborn_1.0.4.6_iphoneos-arm.deb
+Size: 38548
+MD5sum: bf6da0379b17ba32e2247a2a5d398448
+SHA1: b2bbace7b13aaed00b46bc1e8dd537d8b6faf9bf
+SHA256: 8e1e12d7c733abcfb4ff41b1880701003429d6fa3bece97e56c0becdac8ce92f
 Section: Tweaks
-Description: Pwns In-App purchases on iOS 7 and 8. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
-Name: LocalIAPStore
-
-Package: com.ipc.crackerxi
-Version: 1.1.16
-Architecture: iphoneos-arm
-Maintainer: c0pyn1nja
-Depends: firmware (>= 11.0)
-Filename: ./debs/crackerxi_1.1.16.deb
-Size: 9960892
-MD5sum: 8c2c418b99f2c1a6dd1919fdf98ff788
-SHA1: e00724128bca629783da87cbbdc2f8eb4f9fba94
-SHA256: 9319748cdc9bdbe51897ff23c78a759cec76edfedffba2efc385f8c5e30b7448
-Section: System
-Description: Decrypts iOS Apps
-Name: CrackerXI+
-
+Description: YouTube Customizer
+Author: SarahH12099
+Name: YouTube Reborn
