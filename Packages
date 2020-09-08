@@ -11,21 +11,3 @@ SHA256: 20c0015bda83953c2f593cfa7cc25e6a2aad36bcb2d587ae2f95bd5dcc454be8
 Section: System
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Name: AltDaemon
-
-Package: net.sarahh12099.youtubereborn
-Version: 1.0.4.6
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 340
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 11.0)
-Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers
-Replaces: com.twickd.sarahh12099.youtube-reborn
-Filename: ./debs/youtubereborn_1.0.4.6.deb
-Size: 38548
-MD5sum: bf6da0379b17ba32e2247a2a5d398448
-SHA1: b2bbace7b13aaed00b46bc1e8dd537d8b6faf9bf
-SHA256: 8e1e12d7c733abcfb4ff41b1880701003429d6fa3bece97e56c0becdac8ce92f
-Section: Tweaks
-Description: YouTube Customizer 15.31.3 Aug 10, 2020
-Author: SarahH12099
-Name: YouTube Reborn
