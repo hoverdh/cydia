@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Riley Testut
 Depends: firmware (>=12.2)
 Filename: ./debs/AltDaemon.deb
-Size: 597056
-MD5sum: c39e8b63630851c300ac9a0543629c5f
-SHA1: c7c18b8163cbc911115960fd57f7a999d5b3f6f4
-SHA256: 60485f81e6efe57b0b5ed3be14250c86064474d153422b5d5927ca56ac5f79c6
+Size: 625562
+MD5sum: 435fdddfedbf6f729a52f5fa1357e848
+SHA1: 80be6e6f238b34e4d42b7be542d26810334b0cb4
+SHA256: 20c0015bda83953c2f593cfa7cc25e6a2aad36bcb2d587ae2f95bd5dcc454be8
 Section: System
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Name: AltDaemon
