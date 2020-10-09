@@ -13,7 +13,7 @@ Description: AltDaemon allows AltStore to install and refresh apps without a com
 Name: AltDaemon
 
 Package: com.laxus.iosgodsiapcracker
-Version: 1.0-2
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Laxus
 Depends: mobilesubstrate
