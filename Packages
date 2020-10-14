@@ -31,7 +31,7 @@ Version: 1.96
 Architecture: iphoneos-arm
 Maintainer: Laxus
 Depends: mobilesubstrate
-Filename: ./debs/iOSGods.com.SkyForceReloaded.deb.deb
+Filename: ./debs/iOSGods.com.SkyForceReloaded.deb
 Size: 2419490
 MD5sum: 550204031b741d29da023b9e8ab6385e
 SHA1: 6c2081095d6acafbc3e451dad33bae0ceac71a22
