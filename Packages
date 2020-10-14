@@ -26,6 +26,20 @@ Section: Tweaks
 Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
 Name: iOSGods iAP Cracker
 
+Package: iOSGods.com.SkyForceReloaded
+Version: 1.96
+Architecture: iphoneos-arm
+Maintainer: Laxus
+Depends: mobilesubstrate
+Filename: ./debs/iOSGods.com.SkyForceReloaded.deb.deb
+Size: 2419490
+MD5sum: 550204031b741d29da023b9e8ab6385e
+SHA1: 6c2081095d6acafbc3e451dad33bae0ceac71a22
+SHA256: 93ff15da88b0175fe049ae1635489a4727bafce9b3af4cf624b26df3cc214899
+Section: Tweaks
+Description: Sky Force Reloaded iGMM Cheats by Laxus for iOSGods.com!
+Name: Sky Force Reloaded Cheats
+
 Package: net.sarahh12099.youtubereborn
 Version: 1.0.4.6
 Architecture: iphoneos-arm
