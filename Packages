@@ -43,3 +43,17 @@ Section: Tweaks
 Description: YouTube Customizer
 Author: SarahH12099
 Name: YouTube Reborn
+
+Package: jp.r-plus.anykeytrackpad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: r_plus
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/jp.r-plus.anykeytrackpad.deb
+Size: 6584
+MD5sum: 1fe02b45aa6c5e1391248ae68ea304ff
+SHA1: 364461d54c0e51b28bb2b4cdb934359820871bd1
+SHA256: c09b1f047e8a11d2e6d081d08601059f69380a8c01eca05f4d8f1b93f274c784
+Section: Tweaks
+Description: Enter trackpad mode by long press anykey
+Name: AnyKeyTrackpad
