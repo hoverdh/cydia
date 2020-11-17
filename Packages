@@ -45,7 +45,7 @@ Author: SarahH12099
 Name: YouTube Reborn
 
 Package: jp.r-plus.anykeytrackpad
-Version: 1.0
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: r_plus
 Depends: mobilesubstrate, firmware (>= 12.0)
