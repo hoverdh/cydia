@@ -12,19 +12,20 @@ Section: System
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Name: AltDaemon
 
-Package: com.laxus.iosgodsiapcracker
-Version: 1.0
+Package: com.sugi.noshuttersound++
+Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
-Maintainer: Laxus
-Depends: mobilesubstrate
-Filename: ./debs/iosgodsiapcracker_1.0-2+debug.deb
-Size: 18412
-MD5sum: f609fdef7758b9f6c5b544781c58ded7
-SHA1: 6c7108cb350d2442aebc099fe3b2feaf939a55d6
-SHA256: 9f4b9857cd7a8286a14b477e5796cc14d7d71224fb8d8987a5a0324c4871aeb7
+Maintainer: sugi
+Installed-Size: 56
+Filename: ./debs/com.sugi.noshuttersound++_0.0.1-1+debug.deb
+Size: 1868
+MD5sum: b85ef455d680f8d963327be36446d568
+SHA1: d30386c90f5e1d68be321fe884a73d19a75fe04b
+SHA256: 3b13dc22b0315d12f060d0f74397355bf3e1ae20f5e56583a2eb90f8ebd564a2
 Section: Tweaks
-Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
-Name: iOSGods iAP Cracker
+Description: カメラのシャッター音と画面収録の音を削除します。隠し撮りはダメなんですよ。
+Author: sugi
+Name: No Shutter Sound++
 
 Package: net.sarahh12099.youtubereborn
 Version: 1.0.4.6
@@ -61,3 +62,16 @@ Description: Settings info at a glance!
 Author: smokin1337 <smokin1337@gmail.com>
 Name: 3DSettingsInfo
 
+Package: com.laxus.iosgodsiapcracker
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Laxus
+Depends: mobilesubstrate
+Filename: ./debs/iosgodsiapcracker_1.0-2+debug.deb
+Size: 18412
+MD5sum: f609fdef7758b9f6c5b544781c58ded7
+SHA1: 6c7108cb350d2442aebc099fe3b2feaf939a55d6
+SHA256: 9f4b9857cd7a8286a14b477e5796cc14d7d71224fb8d8987a5a0324c4871aeb7
+Section: Tweaks
+Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
+Name: iOSGods iAP Cracker
