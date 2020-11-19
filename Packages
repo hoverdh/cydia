@@ -44,3 +44,20 @@ Description: YouTube Customizer
 Author: SarahH12099
 Name: YouTube Reborn
 
+Package: com.smokin1337.3dsettingsinfo
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.smokin1337.3dbatteryhealth
+Filename: ./debs/com.smokin1337.3dsettingsinfo_1.0.1.deb
+Size: 7686
+MD5sum: 7cbe33d507b20bdf013ca50708024463
+SHA1: 8298d08034659f010aec99d4cd30194ab090bd74
+SHA256: adb83c0b8627232fff7a3bcf7872bdf8f88a933e7c5969f44c77ce205b8ba80a
+Section: Tweaks
+Description: Settings info at a glance!
+Author: smokin1337 <smokin1337@gmail.com>
+Name: 3DSettingsInfo
+
