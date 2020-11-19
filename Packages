@@ -12,6 +12,23 @@ Section: System
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Name: AltDaemon
 
+Package: com.julioverne.ext3nder-installer
+Version: 022b
+Architecture: iphoneos-arm
+Maintainer: Julio
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: ./debs/com.julioverne.ext3nder-installer_022b.deb
+Size: 1947692
+MD5sum: c125341ea7283265364d6755d696bc5b
+SHA1: cc947c68cf9bb0f73a672b346096edf85c26f31e
+SHA256: 176948a72235dad6d63cdb9183a2640c43eee7e9a9b63edd7a92dfb3b6e8738f
+Section: Utilities
+Description: Cydia Extender Installer With Extra Features
+Author: julioverne
+Name: Ext3nder Installer
+
 Package: net.angelxwind.appsyncunified
 Version: 84.0
 Architecture: iphoneos-arm
