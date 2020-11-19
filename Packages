@@ -1,3 +1,20 @@
+Package: com.smokin1337.3dsettingsinfo
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.smokin1337.3dbatteryhealth
+Filename: ./debs/com.smokin1337.3dsettingsinfo_1.0.1.deb
+Size: 7686
+MD5sum: 7cbe33d507b20bdf013ca50708024463
+SHA1: 8298d08034659f010aec99d4cd30194ab090bd74
+SHA256: adb83c0b8627232fff7a3bcf7872bdf8f88a933e7c5969f44c77ce205b8ba80a
+Section: Tweaks
+Description: Settings info at a glance!
+Author: smokin1337 <smokin1337@gmail.com>
+Name: 3DSettingsInfo
+
 Package: com.rileytestut.altdaemon
 Version: 9.0
 Architecture: iphoneos-arm
@@ -12,22 +29,21 @@ Section: System
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Name: AltDaemon
 
-Package: com.julioverne.ext3nder-installer
-Version: 022b
+Package: jp.r-plus.anykeytrackpad
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Julio
-Pre-Depends: ldid, unzip, coreutils, zip, sed
-Depends: mobilesubstrate
-Conflicts: com.julioverne.ext3nder
-Filename: ./debs/com.julioverne.ext3nder-installer_022b.deb
-Size: 1947692
-MD5sum: c125341ea7283265364d6755d696bc5b
-SHA1: cc947c68cf9bb0f73a672b346096edf85c26f31e
-SHA256: 176948a72235dad6d63cdb9183a2640c43eee7e9a9b63edd7a92dfb3b6e8738f
-Section: Utilities
-Description: Cydia Extender Installer With Extra Features
-Author: julioverne
-Name: Ext3nder Installer
+Maintainer: r_plus
+Installed-Size: 144
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/jp.r-plus.anykeytrackpad.deb
+Size: 6584
+MD5sum: 1fe02b45aa6c5e1391248ae68ea304ff
+SHA1: 364461d54c0e51b28bb2b4cdb934359820871bd1
+SHA256: c09b1f047e8a11d2e6d081d08601059f69380a8c01eca05f4d8f1b93f274c784
+Section: Tweaks
+Description: Enter trackpad mode by long press anykey
+Author: r_plus
+Name: AnyKeyTrackpad
 
 Package: net.angelxwind.appsyncunified
 Version: 84.0
@@ -48,6 +64,37 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Name: AppSync Unified
 
+Package: com.julioverne.ext3nder-installer
+Version: 022b
+Architecture: iphoneos-arm
+Maintainer: Julio
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: ./debs/com.julioverne.ext3nder-installer_022b.deb
+Size: 1947692
+MD5sum: c125341ea7283265364d6755d696bc5b
+SHA1: cc947c68cf9bb0f73a672b346096edf85c26f31e
+SHA256: 176948a72235dad6d63cdb9183a2640c43eee7e9a9b63edd7a92dfb3b6e8738f
+Section: Utilities
+Description: Cydia Extender Installer With Extra Features
+Author: julioverne
+Name: Ext3nder Installer
+
+Package: com.laxus.iosgodsiapcracker
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Laxus
+Depends: mobilesubstrate
+Filename: ./debs/iosgodsiapcracker_1.0-2+debug.deb
+Size: 18412
+MD5sum: f609fdef7758b9f6c5b544781c58ded7
+SHA1: 6c7108cb350d2442aebc099fe3b2feaf939a55d6
+SHA256: 9f4b9857cd7a8286a14b477e5796cc14d7d71224fb8d8987a5a0324c4871aeb7
+Section: Tweaks
+Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
+Name: iOSGods iAP Cracker
+
 Package: com.sugi.noshuttersound++
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
@@ -62,22 +109,6 @@ Section: Tweaks
 Description: カメラのシャッター音と画面収録の音を削除します。隠し撮りはダメなんですよ。
 Author: sugi
 Name: No Shutter Sound++
-
-Package: jp.r-plus.anykeytrackpad
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: r_plus
-Installed-Size: 144
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/jp.r-plus.anykeytrackpad.deb
-Size: 6584
-MD5sum: 1fe02b45aa6c5e1391248ae68ea304ff
-SHA1: 364461d54c0e51b28bb2b4cdb934359820871bd1
-SHA256: c09b1f047e8a11d2e6d081d08601059f69380a8c01eca05f4d8f1b93f274c784
-Section: Tweaks
-Description: Enter trackpad mode by long press anykey
-Author: r_plus
-Name: AnyKeyTrackpad
 
 Package: net.sarahh12099.youtubereborn
 Version: 1.0.4.6
@@ -113,23 +144,6 @@ Description: An awesome YouTube AdBlock tweak!
 Author: atebitsy
 Name: YTAdBlock
 
-Package: com.smokin1337.3dsettingsinfo
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: smokin1337 <smokin1337@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate
-Conflicts: com.smokin1337.3dbatteryhealth
-Filename: ./debs/com.smokin1337.3dsettingsinfo_1.0.1.deb
-Size: 7686
-MD5sum: 7cbe33d507b20bdf013ca50708024463
-SHA1: 8298d08034659f010aec99d4cd30194ab090bd74
-SHA256: adb83c0b8627232fff7a3bcf7872bdf8f88a933e7c5969f44c77ce205b8ba80a
-Section: Tweaks
-Description: Settings info at a glance!
-Author: smokin1337 <smokin1337@gmail.com>
-Name: 3DSettingsInfo
-
 Package: com.haoict.zalonoads
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -145,17 +159,3 @@ Section: Tweaks
 Description: Hide "Suggested" post for Zalo app
 Author: Hao Nguyen
 Name: Zalo No Ads Beta
-
-Package: com.laxus.iosgodsiapcracker
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Laxus
-Depends: mobilesubstrate
-Filename: ./debs/iosgodsiapcracker_1.0-2+debug.deb
-Size: 18412
-MD5sum: f609fdef7758b9f6c5b544781c58ded7
-SHA1: 6c7108cb350d2442aebc099fe3b2feaf939a55d6
-SHA256: 9f4b9857cd7a8286a14b477e5796cc14d7d71224fb8d8987a5a0324c4871aeb7
-Section: Tweaks
-Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
-Name: iOSGods iAP Cracker
