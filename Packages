@@ -96,21 +96,6 @@ Description: Cydia Extender Installer With Extra Features
 Author: julioverne
 Name: Ext3nder Installer
 
-Package: com.hidefleets
-Version: 0.0.31
-Architecture: iphoneos-arm
-Maintainer: DaThinkingChair <DaThinkingChair@protonmail.com>
-Depends: firmware (>=11.2), ws.hbang.common
-Filename: ./debs/com.hidefleets.deb
-Size: 35678
-MD5sum: d9361f2d96328ca74db9d092f16d3323
-SHA1: b5aa1885790a104480dd144e64008cc264fa2cf4
-SHA256: aba59e53f5485c73b2dfb5ebda73b35bdcde85507e9577ccd09db831920a117b
-Section: Tweaks
-Description: Hides Fleets and Promoted Tweets in the Twitter app.
-Author: DaThinkingChair <DaThinkingChair@protonmail.com>
-Name: HideFleets
-
 Package: com.laxus.iosgodsiapcracker
 Version: 1.0
 Architecture: iphoneos-arm
