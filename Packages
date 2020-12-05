@@ -96,21 +96,6 @@ Description: Cydia Extender Installer With Extra Features
 Author: julioverne
 Name: Ext3nder Installer
 
-Package: com.codeymoore.fleetusdeletus
-Version: 1.0.1-1
-Architecture: iphoneos-arm
-Maintainer: Codey Moore <codeymooredev@gmail.com>
-Depends: firmware (>=12.0.0), mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: ./debs/com.codeymoore.fleetusdeletus.deb
-Size: 25458
-MD5sum: 0c80b4c63c811d38a94365685d5206bc
-SHA1: 20471fbc95302a0acade57387d660774258d13c6
-SHA256: 46858c4158bc8c3ee3e838250bcf796b3678d44c225d5a640d7712a02c349d7a
-Section: Tweaks
-Description: FLEETUS DELETUS!
-Author: Codey Moore <codeymooredev@gmail.com>
-Name: FleetusDeletus
-
 Package: com.laxus.iosgodsiapcracker
 Version: 1.0
 Architecture: iphoneos-arm
