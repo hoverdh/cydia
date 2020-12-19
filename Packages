@@ -159,18 +159,18 @@ Author: Johnzaro  <johnzrgnns@gmail.com>
 Name: PerfectTwitter
 
 Package: com.twickd.sarahh12099.youtube-reborn
-Version: 1.0.5.9
+Version: 1.0.6.0
 Architecture: iphoneos-arm
 Maintainer: SarahH12099 <sarahh12099@gmail.com>
 Installed-Size: 384
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0)
 Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock
 Replaces: net.sarahh12099.youtubereborn
-Filename: ./debs/com.twickd.sarahh12099.youtube-reborn_1.0.5.9.deb
-Size: 34156
-MD5sum: 10df9a32b266184b98fb98f93f4877fe
-SHA1: 70207aac1a8b7ba7e1a07d081d61f1e99062d340
-SHA256: 2bdc7271d9138b9179fcb9397251d8a66ca95640274efcf4ff934ae4eca4bff4
+Filename: ./debs/com.twickd.sarahh12099.youtube-reborn_1.0.6.0.deb
+Size: 34808
+MD5sum: b187e919a0b1333ee6e92a82139ad146
+SHA1: 53e4e571aa2ae765614c2db65716edfe81ff0a82
+SHA256: 37fd3bc7f815ee410c5ed2c6940b646c39acb5f853bd454049b6f9f537d3570a
 Section: Tweaks
 Description: YouTube Customizer
 Author: SarahH12099 <sarahh12099@gmail.com>
