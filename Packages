@@ -79,6 +79,23 @@ Description: View & Access Applications Data from Home Screen
 Author: Fouad Raheb <support@fouadraheb.com>
 Name: AppData
 
+Package: com.ps.cconandoff
+Version: 0.0.1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debs/com.ps.cconandoff_0.0.1.1_iphoneos-arm.deb
+Size: 3866
+MD5sum: 9c8c207b66b8afedf767d3a62e4bd653
+SHA1: 97e47935fcae3f7e43b17dd71ac898bd48dec49d
+SHA256: 62e032067d1d91d92b8bd79f71c44e3ad7a9f31320bbadabd598c1a15f2757b0
+Section: Tweaks
+Description: Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+)
+Author: PoomSmart
+Name: CC On & Off
+
 Package: com.julioverne.ext3nder-installer
 Version: 022b
 Architecture: iphoneos-arm
