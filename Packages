@@ -144,6 +144,22 @@ Section: Tweaks
 Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
 Name: iOSGods iAP Cracker
 
+Package: com.imkpatil.letmeknow
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.letmeknow_1.4.2.deb
+Size: 25420
+MD5sum: 497873403a9cbcb63ceb0d1698db64b3
+SHA1: 589d270b5a2dafacf2398190203dd68bcdf2b5a5
+SHA256: b887601a2dfc194390cdaf768b8594658473fc2fc12ca5f1689b74e058448f40
+Section: Tweaks
+Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
+Author: P2KDev <p2kdev@gmail.com>
+Name: LetMeKnow
+
 Package: com.sugi.noshuttersound++
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
