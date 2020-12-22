@@ -96,6 +96,23 @@ Description: Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+)
 Author: PoomSmart
 Name: CC On & Off
 
+Package: com.gilshahar7.exacttime
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: gilshahar7
+Installed-Size: 1160
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: ./debs/com.gilshahar7.exacttime_2.0.deb
+Size: 59614
+MD5sum: 6db03f564b816333bc69858a80261382
+SHA1: 9604ef8bca0cc4bfd5238462fc1691770d29256d
+SHA256: cb767d6c8e5f06316d24b3161a8e055f97f01ad54d7ada3ee0145556d56c1e30
+Section: Tweaks
+Description: Shows the exact time of notifications, messages, calls and emails
+Author: gilshahar7
+Name: ExactTime
+
 Package: com.julioverne.ext3nder-installer
 Version: 022b
 Architecture: iphoneos-arm
@@ -157,6 +174,22 @@ Section: Tweaks
 Description: Always latest timeline & remove all promotion posts
 Author: Johnzaro  <johnzrgnns@gmail.com>
 Name: PerfectTwitter
+
+Package: com.p2kdev.waqt
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 372
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.1.deb
+Size: 29934
+MD5sum: c58e9428c6c2cc912883a5756923ce64
+SHA1: 308a1bded3e265ea4b50fb1ccbf3badd72ab7180
+SHA256: e05dcfc2af9748573ad711239c4a42ca3c95fd907723372a75edd2c5f5dbbf89
+Section: Tweaks
+Description: Know more than just the current time!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Waqt
 
 Package: com.twickd.sarahh12099.youtube-reborn
 Version: 1.0.6.0
