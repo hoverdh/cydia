@@ -209,22 +209,6 @@ Description: YouTube Customizer
 Author: SarahH12099 <sarahh12099@gmail.com>
 Name: YouTube Reborn
 
-Package: com.google.ios.ytadblock
-Version: 15.42.5
-Architecture: iphoneos-arm
-Maintainer: atebitsy
-Installed-Size: 216
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.google.ios.ytadblock_15.42.5.deb
-Size: 8998
-MD5sum: b2f10403a79cff3e9dd0b64ad44ca960
-SHA1: 2f70fa245188e045c41055c8601f984a6c694d43
-SHA256: cd0017d0adbcd259b987bef4c9f54d64a6f9f2b4612e563dee20e5a96e182375
-Section: Tweaks
-Description: An awesome YouTube AdBlock tweak!
-Author: atebitsy
-Name: YTAdBlock
-
 Package: com.haoict.zalonoads
 Version: 0.0.1
 Architecture: iphoneos-arm
