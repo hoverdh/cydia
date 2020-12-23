@@ -160,6 +160,23 @@ Description: This tweak will let you know exactly when the call connects/disconn
 Author: P2KDev <p2kdev@gmail.com>
 Name: LetMeKnow
 
+Package: com.twickd.quix.noclutter
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Quix <3parsa3@gmail.com>
+Installed-Size: 816
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: com.udevs.nobreadcrum13, com.cydiageek.byebreadcrumbs, com.yourepo.cydiageek.byehomebottombarx, com.cydiageek.byehomebottombarx, com.twickd.mtac.scrollbarbegone, com.spark.noccbar, com.tommo.hideapplabels, com.dantesieg.hidelabels, com.spark.hidebarx, com.cydiageek.hidedonebuttonx, tk.1di4r.hidedots11, com.ryannair05.hidelabels13, com.zunda.hidenctext, com.dgh0st.hidesbtime, com.yourepo.cydiageek.hidesbtime, com.adrenaline.nodockbg, com.yourepo.cydiageek.nodockground, com.harrywantstodev.nolspadlock, com.mrgcgamer.nodndbanner, com.twickd.mtac.flaturl, com.mtac.flaturl, com.twickd.mtac.nosettingschevrons
+Filename: ./debs/com.twickd.quix.noclutter_1.6.deb
+Size: 313184
+MD5sum: abe16976c2dd6d04f8569cd85fa55a45
+SHA1: 2680cfa8041a6c974e6d15b3eb22c3c9d97a8922
+SHA256: f71cc23d2abb93eb2777805f1c6314778fdf86e2c31737bb17597b3d50bfa0ec
+Section: Tweaks
+Description: Hide elements that clutter iOS
+Author: Quix <3parsa3@gmail.com>
+Name: NoClutter
+
 Package: com.sugi.noshuttersound++
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
