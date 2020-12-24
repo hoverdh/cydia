@@ -130,6 +130,21 @@ Description: Cydia Extender Installer With Extra Features
 Author: julioverne
 Name: Ext3nder Installer
 
+Package: org.wuffs.flickplus
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: Ash Wolf (Ninji) <ninji@wuffs.org>
+Depends: firmware (>=12.0), mobilesubstrate, ws.hbang.common (>= 1.13)
+Filename: ./debs/org.wuffs.flickplus.deb
+Size: 64430
+MD5sum: ec1d46c155d9348dd1b96dc907ec28be
+SHA1: fe56538a6c4fb6586fc502f9b837995b53180bbe
+SHA256: 33f041cf972fa93968fc9622b1d4a64d68b845faf55d5fe7095f5a99d558b400
+Section: Tweaks
+Description: iPad-like key flicks on iPhone (iOS 12/13)
+Author: Ash Wolf (Ninji) <ninji@wuffs.org>
+Name: FlicksForAll
+
 Package: com.laxus.iosgodsiapcracker
 Version: 1.0
 Architecture: iphoneos-arm
