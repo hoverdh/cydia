@@ -130,21 +130,6 @@ Description: Cydia Extender Installer With Extra Features
 Author: julioverne
 Name: Ext3nder Installer
 
-Package: org.wuffs.flickplus
-Version: 0.0.8
-Architecture: iphoneos-arm
-Maintainer: Ash Wolf (Ninji) <ninji@wuffs.org>
-Depends: firmware (>=12.0), mobilesubstrate, ws.hbang.common (>= 1.13)
-Filename: ./debs/org.wuffs.flickplus.deb
-Size: 64430
-MD5sum: ec1d46c155d9348dd1b96dc907ec28be
-SHA1: fe56538a6c4fb6586fc502f9b837995b53180bbe
-SHA256: 33f041cf972fa93968fc9622b1d4a64d68b845faf55d5fe7095f5a99d558b400
-Section: Tweaks
-Description: iPad-like key flicks on iPhone (iOS 12/13)
-Author: Ash Wolf (Ninji) <ninji@wuffs.org>
-Name: FlicksForAll
-
 Package: com.laxus.iosgodsiapcracker
 Version: 1.0
 Architecture: iphoneos-arm
@@ -206,6 +191,22 @@ Section: Tweaks
 Description: カメラのシャッター音と画面収録の音を削除します。隠し撮りはダメなんですよ。
 Author: sugi
 Name: No Shutter Sound++
+
+Package: com.johnzaro.perfectsafari
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 744
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debs/com.johnzaro.perfectsafari.deb
+Size: 351204
+MD5sum: 84932941b06ce83e8306f417ae68b5ee
+SHA1: 6bc89ef44104d550c5462eac3259fb10b081f03a
+SHA256: 1152797bc2265e4daa64f2af080fb9c51cc64d1670b60b4d5d93228315db9aa5
+Section: Tweaks
+Description: Adds tabs and tabs overview to iphone, fullscreen scrolling, background playback, new tab button, count tabs icon, color customizations
+Author: Johnzaro  <johnzrgnns@gmail.com>
+Name: PerfectSafari
 
 Package: com.johnzaro.perfecttwitter
 Version: 1.3
