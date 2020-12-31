@@ -144,6 +144,38 @@ Section: Tweaks
 Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
 Name: iOSGods iAP Cracker
 
+Package: com.julioverne.goodwifi
+Architecture: iphoneos-arm
+Version: 0.0~beta6
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm.deb
+Size: 155794
+MD5sum: b7a838690e17bd7cb1611640e849f50f
+SHA1: 440a1040b3886c698ad35fa2893ac7a1f418c3a5
+SHA256: 24455e831fd73bf9149f8d5eab91fee4cbec2dab103ebe63f070b8f5e7a1f377
+SHA512: 9083e98830472a1b3b8d4ee76638508278cad197d33f75f690db96ed528ef04a7ee3756e1eb1508e5752e307ec1f46edd76610dc611c096125deed865389af8f
+Description: Better WiFi Preferences
+Author: julioverne
+Name: GoodWiFi
+
+Package: com.cemck.killx
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: cemck <cem_ck@icloud.com>
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
+Conflicts: com.cemck.killx-pro
+Filename: ./debs/com.cemck.killx.deb
+Size: 79876
+MD5sum: 2c6eaa2a0683b23836a9ffbd3bcdcbd8
+SHA1: 780e7064dd61df5d58aecfb8496dccd04731795f
+SHA256: ed0f16ea315db186463af0cc9e35c62672e0b2b39bb32a5e04a2b3a99daa655e
+Section: Tweaks
+Description: One swipe to kill them all!
+Author: cemck <cem_ck@icloud.com>
+Name: KillX
+
 Package: com.imkpatil.letmeknow
 Version: 1.4.2
 Architecture: iphoneos-arm
