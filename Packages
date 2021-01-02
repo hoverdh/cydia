@@ -45,6 +45,22 @@ Description: Enter trackpad mode by long press anykey
 Author: r_plus
 Name: AnyKeyTrackpad
 
+Package: com.ps.anywherepredict
+Version: 1.1.3.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debs/com.ps.anywherepredict_1.1.3.1_iphoneos-arm.deb
+Size: 4750
+MD5sum: 82824fff435e3e84c872a0a533b742d1
+SHA1: 261cd3b6d9ff38e5fd2c644dfdf1bd32d660d48d
+SHA256: b8977c1557fbb193d073ecadc2b8ef6eec2c82b53db81e507bb758d2314872e0
+Section: Tweaks
+Description: Predictive keyboard anywhere.
+Author: PoomSmart
+Name: AnywherePredict
+
 Package: net.angelxwind.appsyncunified
 Version: 84.0
 Architecture: iphoneos-arm
