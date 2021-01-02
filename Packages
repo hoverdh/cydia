@@ -95,6 +95,38 @@ Description: View & Access Applications Data from Home Screen
 Author: Fouad Raheb <support@fouadraheb.com>
 Name: AppData
 
+Package: com.udevs.battsafe
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 556
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.udevs.runroot
+Filename: ./debs/com.udevs.battsafe_1.1.3_iphoneos-arm.deb
+Size: 97014
+MD5sum: 4cc27f8fc4b9899c9f90301667e7e290
+SHA1: 9461bc70a529313ef933552cd19fb24bdd5e7b96
+SHA256: 6a9061ee33e089599836da9ff39a63da177bac661d8f0849da09fc0f35eb01be
+Section: Tweaks
+Description: Controls battery charging level
+Author: udevs
+Name: BattSafe
+
+Package: com.udevs.runroot
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 132
+Filename: ./debs/com.udevs.runroot_0.0.2_iphoneos-arm.deb
+Size: 5774
+MD5sum: 1a6bc6ad36d937e7753223400839b500
+SHA1: 8cb9096c0aa84fd4a1985b0763bafe6de8bc6b08
+SHA256: 1c47027c052ad14e09ab4905a01e4478e48e6f3df36a54883d6ff8e19ce01900
+Section: System
+Description: Run command as root
+Tag: role::hacker
+Author: udevs
+Name: runroot
+
 Package: com.ps.cconandoff
 Version: 0.0.1.1
 Architecture: iphoneos-arm
