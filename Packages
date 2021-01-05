@@ -127,6 +127,18 @@ Tag: role::hacker
 Author: udevs
 Name: runroot
 
+Package: cydia.com.ipc.crackerxi
+Version: 1.1.16
+Architecture: iphoneos-arm
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0)
+Filename: ./debs/crackerxi_1.1.16.deb
+Size: 9960924
+MD5sum: 7363c9289b0041ba3bc8df156b751a9c
+Section: System
+Description: Decrypts iOS Apps
+Name: CrackerXI+
+
 Package: com.ps.cconandoff
 Version: 0.0.1.1
 Architecture: iphoneos-arm
@@ -289,14 +301,3 @@ Description: Hide "Suggested" post for Zalo app
 Author: Hao Nguyen
 Name: Zalo No Ads Beta
 
-Package: cydia.com.ipc.crackerxi
-Version: 1.1.16
-Architecture: iphoneos-arm
-Maintainer: c0pyn1nja
-Depends: firmware (>= 11.0)
-Filename: ./debs/crackerxi_1.1.16.deb
-Size: 9960924
-MD5sum: 7363c9289b0041ba3bc8df156b751a9c
-Section: System
-Description: Decrypts iOS Apps
-Name: CrackerXI+
