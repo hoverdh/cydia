@@ -190,6 +190,22 @@ Description: Cydia Extender Installer With Extra Features
 Author: julioverne
 Name: Ext3nder Installer
 
+Package: com.ryannair05.hidelabels13
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Ryan Nair
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.ryannair05.hidelabels13_1.0.0.deb
+Size: 2310
+MD5sum: 2bc44e238bb271d52fbe680e057dd28a
+SHA1: df2eeb1b6f75c7ab095d4046ec2711d7330e8117
+SHA256: 1a04ca24322e12d5c9f709fd81fa9187d75ddbbb66131585676c1a52100f7f77
+Section: Tweaks
+Description: Hide icon labels on iOS 13!
+Author: Ryan Nair
+Name: HideLabels13
+
 Package: com.laxus.iosgodsiapcracker
 Version: 1.0
 Architecture: iphoneos-arm
