@@ -267,6 +267,24 @@ Description: Always latest timeline & remove all promotion posts
 Author: Johnzaro  <johnzrgnns@gmail.com>
 Name: PerfectTwitter
 
+Package: com.ichitaso.transparentdock13
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 136
+Depends: mobilesubstrate
+Pre-Depends: firmware (>= 13.0)
+Filename: ./debs/com.ichitaso.transparentdock13_0.0.2_iphoneos-arm.deb
+Size: 3148
+MD5sum: 547b48997541f306a70d9f468a15f03f
+SHA1: bd2d413071f04ae0632d338c7a7927c59f08b3f6
+SHA256: fd02b13de0f97b15fc8cfd3bf5ad2c2156a0cc467d48db1bf3587a1350fe8d1e
+SHA512: 1c429584fea4b93441d7b139cdf7afad7e32de43cd0419086e954e09821a06b93e6d7bdb7777691427f933a78c3c77d75fbb09247cdf7dbbd8dc36a5044a11d9
+Section: Tweaks
+Description: Transparent Dock for iOS 13
+Author: ichitaso
+Name: TransparentDock13
+
 Package: com.p2kdev.waqt
 Version: 1.1
 Architecture: iphoneos-arm
