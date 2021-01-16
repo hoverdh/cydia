@@ -267,6 +267,22 @@ Description: Always latest timeline & remove all promotion posts
 Author: Johnzaro  <johnzrgnns@gmail.com>
 Name: PerfectTwitter
 
+Package: com.johnzaro.perfectsafari
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 744
+Depends: firmware (>=13.0), mobilesubstrate, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debs/com.johnzaro.perfectsafari.deb
+Size: 351204
+MD5sum: 84932941b06ce83e8306f417ae68b5ee
+SHA1: 6bc89ef44104d550c5462eac3259fb10b081f03a
+SHA256: 1152797bc2265e4daa64f2af080fb9c51cc64d1670b60b4d5d93228315db9aa5
+Section: Tweaks
+Description: Adds tabs and tabs overview to iphone, fullscreen scrolling, background playback, new tab button, count tabs icon, color customizations
+Author: Johnzaro  <johnzrgnns@gmail.com>
+Name: PerfectSafari
+
 Package: com.ichitaso.transparentdock13
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -284,22 +300,6 @@ Section: Tweaks
 Description: Transparent Dock for iOS 13
 Author: ichitaso
 Name: TransparentDock13
-
-Package: me.kritanta.reachcc13
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: Kritanta
-Installed-Size: 440
-Depends: mobilesubstrate
-Filename: ./debs/me.kritanta.reachcc13_0.1.0_iphoneos-arm.deb
-Size: 6086
-MD5sum: 67e04aa30508e5d1a7b5cde2ed2932c2
-SHA1: a02947fbaa2ddb1020ebe6e5806a4565ca33d513
-SHA256: 83bfdecbf9c8d209259d6be4cb56cc173ce470b0c343d590f949b7b2c56158a8
-Section: Tweaks
-Description: Activate CC Using Reachability Gesture
-Author: Kritanta
-Name: ReachCC13
 
 Package: com.p2kdev.waqt
 Version: 1.1
