@@ -251,22 +251,6 @@ Description: カメラのシャッター音と画面収録の音を削除しま�
 Author: sugi
 Name: No Shutter Sound++
 
-Package: beta.simalary.powersettings
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Simalary (Chris) <19harperc@gmail.com>
-Installed-Size: 280
-Filename: ./debs/beta.simalary.powersettings_1.0.deb
-Depends: mobilesubstrate, firmware(>=13.0)
-Size: 14074
-MD5sum: d231001309238819e29e769a1f25dae7
-SHA1: 668e4b541b34b531c25d02677baaa7a6dc949f02
-SHA256: f756cb4efd94da27223e0d8600abd556dfd9386bfe14b9305aa11cb0b91f1fc8
-Section: Tweaks
-Description: Add power options right in Settings.app
-Author: Simalary (Chris) <19harperc@gmail.com>
-Name: PowerSettings
-
 Package: com.johnzaro.perfecttwitter
 Version: 1.3
 Architecture: iphoneos-arm
