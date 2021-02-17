@@ -62,19 +62,19 @@ Author: PoomSmart
 Name: AnywherePredict
 
 Package: net.angelxwind.appsyncunified
-Version: 84.0
+Version: 90.0
 Architecture: iphoneos-arm
 Maintainer: Karen/あけみ <karen@akemi.ai>
-Installed-Size: 496
-Depends: firmware (>= 5.0), firmware (<= 13.7), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Installed-Size: 732
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.4.1)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
 Replaces: us.hackulo.appsync50
 Provides: appsync
 Filename: ./debs/nodelete-net.angelxwind.appsyncunified.deb
-Size: 42058
-MD5sum: 979c1973c503b9eb4e9e1151d97c4421
-SHA1: e7b5a9a5fe95eef270b1d0e2e70a40a6567a1636
-SHA256: 41dd591135281ca31ed5564ffa283f126bc0da1818691c8601abe6d7c18b7fff
+Size: 58320
+MD5sum: e09adfa7e4643c2d54704a8f14f7c05c
+SHA1: 5302c6f490e46e32eeb273167fe01869af12cd41
+SHA256: f11a35c0f6937f96374ac6ca0d4a508b43bba67e5150b54cc93b6e40bb57b74a
 Section: Tweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
@@ -94,38 +94,6 @@ Section: Tweaks
 Description: View & Access Applications Data from Home Screen
 Author: Fouad Raheb <support@fouadraheb.com>
 Name: AppData
-
-Package: com.udevs.battsafe
-Version: 1.1.3
-Architecture: iphoneos-arm
-Maintainer: udevs
-Installed-Size: 556
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.udevs.runroot
-Filename: ./debs/com.udevs.battsafe_1.1.3_iphoneos-arm.deb
-Size: 97014
-MD5sum: 4cc27f8fc4b9899c9f90301667e7e290
-SHA1: 9461bc70a529313ef933552cd19fb24bdd5e7b96
-SHA256: 6a9061ee33e089599836da9ff39a63da177bac661d8f0849da09fc0f35eb01be
-Section: Tweaks
-Description: Controls battery charging level
-Author: udevs
-Name: BattSafe
-
-Package: com.udevs.runroot
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: udevs
-Installed-Size: 132
-Filename: ./debs/com.udevs.runroot_0.0.2_iphoneos-arm.deb
-Size: 5774
-MD5sum: 1a6bc6ad36d937e7753223400839b500
-SHA1: 8cb9096c0aa84fd4a1985b0763bafe6de8bc6b08
-SHA256: 1c47027c052ad14e09ab4905a01e4478e48e6f3df36a54883d6ff8e19ce01900
-Section: System
-Description: Run command as root
-Tag: role::hacker
-Author: udevs
-Name: runroot
 
 Package: cydia.com.ipc.crackerxi
 Version: 1.1.16
@@ -190,22 +158,6 @@ Description: Cydia Extender Installer With Extra Features
 Author: julioverne
 Name: Ext3nder Installer
 
-Package: com.ryannair05.hidelabels13
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Ryan Nair
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.ryannair05.hidelabels13_1.0.0.deb
-Size: 2310
-MD5sum: 2bc44e238bb271d52fbe680e057dd28a
-SHA1: df2eeb1b6f75c7ab095d4046ec2711d7330e8117
-SHA256: 1a04ca24322e12d5c9f709fd81fa9187d75ddbbb66131585676c1a52100f7f77
-Section: Tweaks
-Description: Hide icon labels on iOS 13!
-Author: Ryan Nair
-Name: HideLabels13
-
 Package: com.laxus.iosgodsiapcracker
 Version: 1.0
 Architecture: iphoneos-arm
@@ -266,24 +218,6 @@ Section: Tweaks
 Description: Always latest timeline & remove all promotion posts
 Author: Johnzaro  <johnzrgnns@gmail.com>
 Name: PerfectTwitter
-
-Package: com.ichitaso.transparentdock13
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: ichitaso
-Installed-Size: 136
-Depends: mobilesubstrate
-Pre-Depends: firmware (>= 13.0)
-Filename: ./debs/com.ichitaso.transparentdock13_0.0.2_iphoneos-arm.deb
-Size: 3148
-MD5sum: 547b48997541f306a70d9f468a15f03f
-SHA1: bd2d413071f04ae0632d338c7a7927c59f08b3f6
-SHA256: fd02b13de0f97b15fc8cfd3bf5ad2c2156a0cc467d48db1bf3587a1350fe8d1e
-SHA512: 1c429584fea4b93441d7b139cdf7afad7e32de43cd0419086e954e09821a06b93e6d7bdb7777691427f933a78c3c77d75fbb09247cdf7dbbd8dc36a5044a11d9
-Section: Tweaks
-Description: Transparent Dock for iOS 13
-Author: ichitaso
-Name: TransparentDock13
 
 Package: com.p2kdev.waqt
 Version: 1.1
