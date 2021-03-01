@@ -158,22 +158,6 @@ Section: Tweaks
 Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
 Name: iOSGods iAP Cracker
 
-Package: com.twickd.dcsyhi.kbappdock
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
-Installed-Size: 1276
-Depends: mobilesubstrate
-Filename: ./debs/com.twickd.dcsyhi.kbappdock_1.0.1.deb
-Size: 638808
-MD5sum: b1f1bcf7ea799e068701147a5bb887af
-SHA1: 31b703881b497b2b97ffc665ccc067432575195c
-SHA256: 948913e09dbf6604e9094fd994ad414f53ab105f31bc9c5d4566512633e3bf44
-Section: Tweaks
-Description: You can arrange apps or modules on the dock of keyboard ⌨️.
-Author: Dcsyhi <dcsyhi1998@gmail.com>
-Name: KBAppDock
-
 Package: com.imkpatil.letmeknow
 Version: 1.4.2
 Architecture: iphoneos-arm
