@@ -144,6 +144,23 @@ Description: Cydia Extender Installer With Extra Features
 Author: julioverne
 Name: Ext3nder Installer
 
+Package: kr.xsf1re.flyjbx
+Version: 1.1.18
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 2800
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb
+Filename: ./debs/kr.xsf1re.flyjbx_1.1.18_iphoneos-arm.deb
+Size: 1646008
+MD5sum: 9bfb179c02ab82a90366fb7ba8ee63a9
+SHA1: 73805d0f49554dfbc59dac9c3d7229b507420de5
+SHA256: 6ba1289d99d3ec62fa7a9abf1063f607d42966976f86c21ba3a5b41e61b36d26
+Section: Tweaks
+Description: You can HIDE Doing jailbreak your iDevice.
+Author: XsF1re
+Name: FlyJB X
+
 Package: com.laxus.iosgodsiapcracker
 Version: 1.0
 Architecture: iphoneos-arm
