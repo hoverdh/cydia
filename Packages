@@ -1,3 +1,19 @@
+Package: com.rpgfarm.u0smscompletefix
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 332
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.rpgfarm.u0smscompletefix.deb
+Size: 5710
+MD5sum: ff38e7305cdf6a93a553fcadce0acf2c
+SHA1: f39ec7e0c0d0db1ef71010f060aa22df5d9514f3
+SHA256: a5eec74b90040485cd6638f987d298cd0205df69bb86ee69d1164a2065dbc03b
+Section: Tweaks
+Description: Fix unc0ver sms auto complete
+Author: Baw Appie <pp121324@gmail.com>
+Name: u0SMSCompleteFix
+
 Package: com.smokin1337.3dsettingsinfo
 Version: 1.0.1
 Architecture: iphoneos-arm
