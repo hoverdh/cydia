@@ -17,6 +17,21 @@ Description: Snowboard theming engine
 Author: Spark
 Name: SnowBoard
 
+Package: com.kadir1009.basicboard
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: kadir1009 <abdulkadirkeles@me.com>
+Filename: ./debs/com.kadir1009.basicboard_1.2.deb
+Size: 267916
+MD5sum: e2ee06bc4546b124993970ce9bbab569
+SHA1: a315fc3716ee8a891527d3695239f769656c5314
+SHA256: fa16c1ff98e0b09807765f9155a67345e04e91b2f85da831db9e2b067882c16e
+Section: Themes
+Description: Simple theme for iOS Device.
+Depiction: https://repo.packix.com/package/com.kadir1009.basicboard/
+Author: kadir1009 <abdulkadirkeles@me.com>
+Name: BasicBoard
+
 Package: com.rpgfarm.u0smscompletefix
 Version: 1.0.1
 Architecture: iphoneos-arm
