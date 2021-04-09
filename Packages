@@ -32,22 +32,6 @@ Depiction: https://repo.packix.com/package/com.kadir1009.basicboard/
 Author: kadir1009 <abdulkadirkeles@me.com>
 Name: BasicBoard
 
-Package: com.willbraff.historyofios
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: William Braffman <wbraffman@gmail.com>
-Depends: firmware (>=7)
-Filename: ./debs/com.willbraff.historyofios_2.0.deb
-Size: 39313856
-MD5sum: 9c92eb0b1f69672b615521034df7bbe5
-SHA1: bfe861e4100d47486c85ce537c973d25953dd365
-SHA256: 87bdf091934992cfd8945edf909d6ebb788a3430c9860d480ccf6a4da72f13d2
-Section: Themes
-Description: A Theme that resembles all iOS Versions for iOS 7-12
-Depiction: https://repo.twickd.com/package/com.willbraff.historyofios
-Author: William Braffman <wbraffman@gmail.com>
-Name: History Of iOS
-
 Package: com.rpgfarm.u0smscompletefix
 Version: 1.0.1
 Architecture: iphoneos-arm
