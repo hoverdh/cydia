@@ -48,6 +48,21 @@ Depiction: https://repo.packix.com/package/com.kadir1009.pellucid/
 Author: kadir1009 <abdulkadirkeles@me.com>
 Name: Pellucid
 
+Package: com.twickd.j3nra1n.ios-7-classic-icons
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: J3nRa1n <tiffgu3.0@gmail.com>
+Filename: ./debs/com.twickd.j3nra1n.ios-7-classic-icons_2.0.deb
+Size: 2946692
+MD5sum: b3c08b786b7e7c93369714b7cd6510f5
+SHA1: bf93c1b247e2c061d9f51460f92ecddf2e872838
+SHA256: 9be03704d29bf95d9a0f7c2f490d1f548f7588735b356eea86bce164d9ca06f9
+Section: Themes
+Description: Remember the day you just updated to iOS 7?
+Depiction: https://repo.twickd.com/package/com.twickd.j3nra1n.ios-7-classic-icons
+Author: J3nRa1n <tiffgu3.0@gmail.com>
+Name: iOS 7 Classic icons
+
 Package: com.rpgfarm.u0smscompletefix
 Version: 1.0.1
 Architecture: iphoneos-arm
