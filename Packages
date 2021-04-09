@@ -32,6 +32,22 @@ Depiction: https://repo.packix.com/package/com.kadir1009.basicboard/
 Author: kadir1009 <abdulkadirkeles@me.com>
 Name: BasicBoard
 
+Package: com.kadir1009.pellucid
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: kadir1009 <abdulkadirkeles@me.com>
+Conflicts: ru.rejail.karatheme, ru.rejail.sadetheme, com.hackyouriphone.karatheme, com.hackyouriphone.sadetheme, com.hackyouriphone.bboardplus
+Filename: ./debs/com.kadir1009.pellucid_1.0.deb
+Size: 1856692
+MD5sum: f5229a9b11527ccd81aa6c168947752c
+SHA1: 60a0840f47cd713bb03865c9160df0c8a8355c6a
+SHA256: e60233b3e9654d825c8c4f00b05c0bdfb70c5ec14d3812b9d56bed25d479a428
+Section: Themes
+Description: The harbinger of spring with colors.
+Depiction: https://repo.packix.com/package/com.kadir1009.pellucid/
+Author: kadir1009 <abdulkadirkeles@me.com>
+Name: Pellucid
+
 Package: com.rpgfarm.u0smscompletefix
 Version: 1.0.1
 Architecture: iphoneos-arm
