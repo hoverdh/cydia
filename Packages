@@ -17,6 +17,20 @@ Description: Snowboard theming engine
 Author: Spark
 Name: SnowBoard
 
+Package: com.gabehern.lumi
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: gab3h3rn <gabehern@icloud.com>
+Filename: ./debs/com.gabehern.lumi_1.1.0.deb
+Size: 6030990
+MD5sum: bf0f1cb16328592daae27cc43e17e66c
+SHA1: d2f67cb3f9cc7d917743fe6532da89cddb11e23e
+SHA256: e7c09bc7993c9a9500d400f0cedee5ba88c334f2249592160bd113762827c767
+Section: Themes
+Description: A Space Potato revival.
+Author: gab3h3rn <gabehern@icloud.com>
+Name: Lumi
+
 Package: com.rpgfarm.u0smscompletefix
 Version: 1.0.1
 Architecture: iphoneos-arm
