@@ -32,23 +32,6 @@ Depiction: https://repo.packix.com/package/com.kadir1009.basicboard/
 Author: kadir1009 <abdulkadirkeles@me.com>
 Name: BasicBoard
 
-Package: com.twickd.allstars101.oneui-20
-Version: beta1
-Architecture: iphoneos-arm
-Maintainer: Allstars101 <allstars101gaming@gmail.com>
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: ./debs/com.twickd.allstars101.oneui-20.deb
-Size: 290594
-MD5sum: a60bb5e860ee93ec01e5288d8b72a46e
-SHA1: 8c9e607453adbcf38a49468c687def1120a70615
-SHA256: 08159dc41b8745c8154f6d313357b29de0116046577b429b0ccfa6cfec131712
-Section: Themes
-Description: A theme/icon pack directly ported from a Galaxy S9 running on One UI 2.0. Most system icons are replaced along with a few third party icons (basically whatever One UI substitutes).
-*NOTE: Compatibility tested only for iOS 13.x. May or may not work for iOS 11/12.x. Moreover, it is highly unlikely that this theme would work for any iPad.* Also, all copyright and reserved rights belong to Samsung Electronics Co. Ltd. No icon that is part of this theme belongs to me. In addition, your iDevice might me unresponsive for a while. Just wait for a while and it should be normal. Since many third party icons have not yet been added, I'd recommend using the Lotus theme or something similar with a custom corner radius setting of 19px in Snowboard. Socials- Discord: AllStars101#4367, telegram: @AllStars101, Twitter: @ChrisPagolu.
-Depiction: https://repo.twickd.com/package/com.twickd.allstars101.oneui-20
-Author: Allstars101 <allstars101gaming@gmail.com>
-Name: OneUI 2.0
-
 Package: com.rpgfarm.u0smscompletefix
 Version: 1.0.1
 Architecture: iphoneos-arm
