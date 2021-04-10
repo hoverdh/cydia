@@ -32,23 +32,6 @@ Depiction: https://repo.packix.com/package/com.kadir1009.basicboard/
 Author: kadir1009 <abdulkadirkeles@me.com>
 Name: BasicBoard
 
-Package: com.qiop1379.thinner
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: qwertyuiop1379
-Installed-Size: 368
-Depends: mobilesubstrate
-Filename: ./debs/com.qiop1379.thinner_1.1.1_iphoneos-arm.deb
-Size: 65436
-MD5sum: 64af856d4d376362ec5f88ad8c5e2773
-SHA1: 27a04719dcb798f625e60401e94e6a77bafc2fb8
-SHA256: 767e5830fed24fad316dfc50066557e5eb52504bd64c3efad0b7309072631704
-Section: Tweaks
-Description: Change font weight on the lockscreen clock/date.
-Depiction: https://qwertyuiop1379.github.io/depiction/thinner/index.html
-Author: qwertyuiop1379
-Name: Thinner
-
 Package: com.rpgfarm.u0smscompletefix
 Version: 1.0.1
 Architecture: iphoneos-arm
