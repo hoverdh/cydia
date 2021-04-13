@@ -32,6 +32,22 @@ Depiction: https://repo.packix.com/package/com.kadir1009.basicboard/
 Author: kadir1009 <abdulkadirkeles@me.com>
 Name: BasicBoard
 
+Package: com.rowandesign.morandi
+Version: 0.2.0
+Architecture: iphoneos-arm
+Maintainer: Rowandesign
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.rowandesign.morandi_2.0.deb
+Size: 6310440
+MD5sum: 659224bb5d596d5390fd67c80eb97e09
+SHA1: 7a00738f0ecd80f1c24521246f27acefe5f7deca
+SHA256: 71669d496d53e8913f6897b23ef00e811577ee5f4af01bb7f46b0e889ba36b2a
+Section: Themes
+Description: Morandi - Pay tribute to my favorite painter
+Depiction: https://repo.packix.com/package/com.rowandesign.morandi/
+Author: Rowandesign
+Name: Morandi
+
 Package: com.rpgfarm.u0smscompletefix
 Version: 1.0.1
 Architecture: iphoneos-arm
