@@ -207,6 +207,22 @@ Section: Tweaks
 Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
 Name: iOSGods iAP Cracker
 
+Package: com.miro.lowlock
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 140
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/com.miro.lowlock_1.0.5_iphoneos-arm.deb
+Size: 6740
+MD5sum: f99af17f19bb1db9061c4d4d984dbbb4
+SHA1: f0449ddef328850fbc1272b554c7881c14b6b28e
+SHA256: d8e742f6666419f77e8b04f4ac24a33855929a7253a5d53d44c01e0c53052126
+Section: Tweaks
+Description: Turn on Low Power Mode once the device locked.
+Author: MiRO <tweaks_support@miro92.com>
+Name: LowLock
+
 Package: love.litten.lisa
 Version: 1.4.1
 Architecture: iphoneos-arm
