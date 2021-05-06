@@ -239,6 +239,22 @@ Description: This tweak will let you know exactly when the call connects/disconn
 Author: P2KDev <p2kdev@gmail.com>
 Name: LetMeKnow
 
+Package: com.antonym.okreplay
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Antony .M
+Installed-Size: 148
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.antonym.okreplay.deb
+Size: 10664
+MD5sum: f69c3e0d32074741dc078cf7edd785d9
+SHA1: be11465ccfabd69f000cc7b7cb74e43a8b5ccb07
+SHA256: d942683ac26ebd63206b84ae8633eb41c6472d0ca4a9230674e2d2b5f0ecbf80
+Section: Tweaks
+Description: Automatically replay a video in the Photo app
+Author: Antony .M
+Name: OkReplay
+
 Package: com.udevs.nojunkquickactions
 Version: 1.0.1
 Architecture: iphoneos-arm
