@@ -141,24 +141,6 @@ Description: Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+)
 Author: PoomSmart
 Name: CC On & Off
 
-Package: com.ichitaso.dndbaddges
-Section: Tweaks
-Installed-Size: 136
-Maintainer: ichitaso
-Architecture: iphoneos-arm
-Version: 0.0.1
-Depends: mobilesubstrate
-Pre-Depends: firmware (>= 12.0)
-Filename: ./debs/com.ichitaso.dndbaddges_0.0.1_iphoneos-arm.deb
-Size: 5200
-MD5sum: 0e301ecf7ebd6a1aae540874f8b8f799
-SHA1: 5c305bb60ed2226fcc0cc8c5d150de8119fbd077
-SHA256: d22d6fbd4a4accf6926d87c2316ac0664c451483f4fae6e737c6b31e367431b9
-SHA512: b82acc24e2f52a225cd611e9d1ef62a153865fe69e581768f4357f662c49f4ecc56cce494f79f51d1b8cf2495cdb45db8c1026d1a1b6dbfcf9d2ed46cb2a72a9
-Description: turn the notification badges to purplish when DoNotDisturb is enabled
-Author: ichitaso
-Name: DNDBadges
-
 Package: com.gilshahar7.exacttime
 Version: 2.0
 Architecture: iphoneos-arm
@@ -206,22 +188,6 @@ SHA256: 9f4b9857cd7a8286a14b477e5796cc14d7d71224fb8d8987a5a0324c4871aeb7
 Section: Tweaks
 Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
 Name: iOSGods iAP Cracker
-
-Package: love.litten.lisa
-Version: 1.4.1
-Architecture: iphoneos-arm
-Maintainer: Litten
-Installed-Size: 556
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debs/love.litten.lisa_1.4.1_iphoneos-arm.deb
-Size: 102674
-MD5sum: 62b83a6ffefa4d2795a6260296c2347c
-SHA1: f812098ccf7242ad6f104b96aa810b7e3308d7b0
-SHA256: 8b49e9b023fb4b50fc48178f9e8c65b920de39f88f5c3b435bfe5ccc7fd9a9f8
-Section: Tweaks
-Description: Full incoming OLED notifications
-Author: Litten & Esquilli
-Name: Lisa 💅🏻
 
 Package: com.imkpatil.letmeknow
 Version: 1.4.2
