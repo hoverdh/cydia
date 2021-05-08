@@ -268,22 +268,6 @@ Description: Always latest timeline & remove all promotion posts
 Author: Johnzaro  <johnzrgnns@gmail.com>
 Name: PerfectTwitter
 
-Package: com.nicho1asdev.reachtolockx
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: nicho1asdev
-Installed-Size: 312
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: ./debs/com.nicho1asdev.reachtolockx_1.2_iphoneos-arm.deb
-Size: 16342
-MD5sum: 30e1b4c7fc057e6b1d92259de13cb476
-SHA1: 1c23f60edcd0eb38917840dfa14099af57f6ba54
-SHA256: 1aceff76f87d09c70e2a2bf34c5f34abcc039eb77cc0bd2146f76680e9eb0a05
-Section: Tweaks
-Description: Replaces the reachability gesture to lock the device instead. @itsnicho1as on Twitter.
-Author: nicho1asdev
-Name: ReachToLockX
-
 Package: com.p2kdev.waqt
 Version: 1.1
 Architecture: iphoneos-arm
