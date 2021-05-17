@@ -142,16 +142,16 @@ Author: PoomSmart
 Name: CC On & Off
 
 Package: com.ginsu.enablebatterypercent
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: ginsu
 Installed-Size: 408
 Depends: mobilesubstrate
-Filename: ./debs/com.ginsu.enablebatterypercent_1.0.1_iphoneos-arm.deb
-Size: 37804
-MD5sum: 8f1f5b328436903201b97ad9362f9c81
-SHA1: 94256193b2936b335864fd444e0033b5892fcf4e
-SHA256: bd6ac41a34b79512b3df5332f0e2b0597e1851458763a1b122d65ec373141669
+Filename: ./debs/com.ginsu.enablebatterypercent_1.0.2_iphoneos-arm.deb
+Size: 38210
+MD5sum: 34cd9274403cff3e7508b7e2342fc031
+SHA1: 9e4667170fa768582dc9435b7890154fb453e8da
+SHA256: df41e4b6647c121c45ab5423c0b0e0fa77342c0b96a0e96f3afc97d458fec64c
 Section: Tweaks
 Description: Enable Apple's Secret Battery Percentage.
 Author: ginsu
