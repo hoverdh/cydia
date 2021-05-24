@@ -351,6 +351,25 @@ Description: YouTube Customizer
 Author: SarahH12099 <sarahh12099@gmail.com>
 Name: YouTube Reborn
 
+Package: com.ps.youpip
+Version: 0.0.13
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 14.0) | gsc.ipad | com.cabralcole.forceinpicture | com.ps.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Provides: com.spicat.youpip
+Filename: ./debs/com.ps.youpip_0.0.13_iphoneos-arm.deb
+Size: 12686
+MD5sum: ae91b5a362d0d671319c9d375bfac897
+SHA1: a64c75a67e73ff2d74d869eeb0e14cc7d4fb38d1
+SHA256: 11400bf968585abc5b132aea32d8d15bff25e80bee3e44b012d5a56279dd0162
+Section: Tweaks
+Description: Enable native PiP in YouTube app.
+Author: PoomSmart
+Name: YouPIP
+
 Package: com.haoict.zalonoads
 Version: 0.0.1
 Architecture: iphoneos-arm
