@@ -157,6 +157,22 @@ Description: Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+)
 Author: PoomSmart
 Name: CC On & Off
 
+Package: com.ginsu.dodo
+Architecture: iphoneos-arm
+Version: 1.0.2
+Filename: ./debs/com.ginsu.dodo_1.0.2_iphoneos-arm.deb
+Maintainer: Ginsu
+Depends: mobilesubstrate (>= 0.9.5000)
+Installed-Size: 1808
+Size: 1259840
+MD5sum: 6f79e0126380f69a50531e3d4fd6e5a3
+SHA1: 21df38065b9c145f670812009824bae6f8d3201b
+SHA256: 7d3839ebc4ef119001e286effa0041e2da4f8ca59333c646591cf2ce8299fdd9
+Section: Tweaks
+Description: A lock screen redesign.
+Author: Ginsu
+Name: Dodo
+
 Package: com.ginsu.enablebatterypercent
 Version: 1.0.2
 Architecture: iphoneos-arm
