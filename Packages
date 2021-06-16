@@ -27,6 +27,22 @@ Description: An Application to simply ldrestart the Device!
 Author: CydiaGeek
 Name: ldrestartApp
 
+Package: com.abcydia.netcontrol
+Version: 1.0.1-8
+Architecture: iphoneos-arm
+Maintainer: WZteam
+Depends: mobilesubstrate
+Conflicts: com.abcydia.conditionalwifi4
+Filename: ./debs/com.abcydia.netcontrol_1.0.1-8_iphoneos-arm.deb
+Size: 694462
+MD5sum: aee7553d0edb0adaa14abf92b2873d85
+SHA1: 32cfecaff7bb2ce26b53d1cc32b633bbc65a578d
+SHA256: d7b18b2bf99f424f7d766e9325ea8d30fcd72aaa05dd3a0a653863df5cb66d65
+Section: Utilities
+Description: 设置 App 蜂窝&WiFi 网络接入控制
+Author: ABCydia
+Name: NetControl 联网控制
+
 Package: com.chr1s.newtab
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -170,22 +186,6 @@ Section: Tweaks
 Description: Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+)
 Author: PoomSmart
 Name: CC On & Off
-
-Package: com.ginsu.dodo
-Architecture: iphoneos-arm
-Version: 1.0.2
-Filename: ./debs/com.ginsu.dodo_1.0.2_iphoneos-arm.deb
-Maintainer: Ginsu
-Depends: mobilesubstrate (>= 0.9.5000)
-Installed-Size: 1808
-Size: 1259840
-MD5sum: 6f79e0126380f69a50531e3d4fd6e5a3
-SHA1: 21df38065b9c145f670812009824bae6f8d3201b
-SHA256: 7d3839ebc4ef119001e286effa0041e2da4f8ca59333c646591cf2ce8299fdd9
-Section: Tweaks
-Description: A lock screen redesign.
-Author: Ginsu
-Name: Dodo
 
 Package: com.ginsu.enablebatterypercent
 Version: 1.0.2
@@ -382,19 +382,19 @@ Author: SarahH12099 <sarahh12099@gmail.com>
 Name: YouTube Reborn
 
 Package: com.ps.youpip
-Version: 1.2.2
+Version: 1.3.1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 284
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0) | gsc.ipad | com.cabralcole.forceinpicture | com.ps.forceinpicture
+Installed-Size: 204
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.cabralcole.forceinpicture | com.ps.forceinpicture
 Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
 Provides: com.spicat.youpip
-Filename: ./debs/com.ps.youpip_1.2.2_iphoneos-arm.deb
-Size: 26312
-MD5sum: df65b427bca270f549230fc64fbea50f
-SHA1: 17f7a1eafd08682a55dbf7142dc4da6404d32884
-SHA256: 6ea1de91d68543f600692570b82256bfad8a38c420f975f6d22aae02b5353532
+Filename: ./debs/com.ps.youpip_1.3.1_iphoneos-arm.deb
+Size: 17528
+MD5sum: 2604a1ae3497026f20a2b156989c4e88
+SHA1: b8325168956707d21eee4bf386a903ff37d09125
+SHA256: fa12e3130928b70250ac402b423b8cf999d81c1d3bfd42c2a086830f0cfef4be
 Section: Tweaks
 Description: Enable native PiP in YouTube app.
 Author: PoomSmart
