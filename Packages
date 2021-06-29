@@ -17,7 +17,7 @@ Package: com.yourepo.cydiageek.ldrestartapp
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: CydiaGeek
-Filename: ./debs/com.yourepo.cydiageek.ldrestartapp_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.yourepo.cydiageek.ldrestartapp_1.0.0.deb
 Size: 968604
 MD5sum: 974378d8036a14080e8632eb9f2f0f3e
 SHA1: 03055c2f063e4d77dc5e0cb9639b13f3b3bd813e
