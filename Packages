@@ -382,7 +382,7 @@ Author: SarahH12099 <sarahh12099@gmail.com>
 Name: YouTube Reborn
 
 Package: com.ps.youpip
-Version: 1.3.3
+Version: 1.4.3
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 204
@@ -390,11 +390,11 @@ Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), firmware (>= 14.
 Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
 Provides: com.spicat.youpip
-Filename: ./debs/com.ps.youpip_1.3.3_iphoneos-arm.deb
-Size: 17344
-MD5sum: ca689f5a41ba0284dc0985ae9013bd10
-SHA1: a8b3f6f13134a7c5aba21f547658c0a3afd112cd
-SHA256: b8ca0374218f8ded7ff2dd586a15982a5d32d8e67957281ff5beb91a49fd02da
+Filename: ./debs/com.ps.youpip_1.4.3_iphoneos-arm.deb
+Size: 17584
+MD5sum: bc65b288db52c5be42b9fd56c49eabd5
+SHA1: ab01711f1ba35b4e479ea453ea0fb759fa2f3c93
+SHA256: b7f2b5e06be83f427c1f2fd2b769fe5945b7b64fe85eb7bc47054cd7b5c64d5d
 Section: Tweaks
 Description: Enable native PiP in YouTube app.
 Author: PoomSmart
