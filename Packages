@@ -187,6 +187,22 @@ Description: Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+)
 Author: PoomSmart
 Name: CC On & Off
 
+Package: com.matteozappia.edictus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: aboutzeph & Soongyu Kwon <aboutzeph@gmail.com>
+Depends: uikittools, wallpaperloader
+Installed-Size: 3332
+Filename: ./debs/com.matteozappia.edictus.deb
+Size: 1152434
+MD5sum: 6d5ad0954732cac370b4c86d5042661d
+SHA1: 5119416f8465733edec64e44cdacc4f3b706852a
+SHA256: fa26bbc5021b1d03b64ac2668f02106b118a9db4de07d7b9501b67f2d52b7f3e
+Description: Create your own Wallpapers!
+Author: aboutzeph & Soongyu Kwon <aboutzeph@gmail.com>
+Section: Tweaks
+Name: Edictus
+
 Package: com.ginsu.enablebatterypercent
 Version: 1.0.2
 Architecture: iphoneos-arm
