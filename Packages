@@ -187,22 +187,6 @@ Description: Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+)
 Author: PoomSmart
 Name: CC On & Off
 
-Package: com.matteozappia.edictus
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: aboutzeph & Soongyu Kwon <aboutzeph@gmail.com>
-Depends: uikittools, wallpaperloader
-Installed-Size: 3332
-Filename: ./debs/com.matteozappia.edictus.deb
-Size: 1152434
-MD5sum: 6d5ad0954732cac370b4c86d5042661d
-SHA1: 5119416f8465733edec64e44cdacc4f3b706852a
-SHA256: fa26bbc5021b1d03b64ac2668f02106b118a9db4de07d7b9501b67f2d52b7f3e
-Description: Create your own Wallpapers!
-Author: aboutzeph & Soongyu Kwon <aboutzeph@gmail.com>
-Section: Tweaks
-Name: Edictus
-
 Package: com.ginsu.enablebatterypercent
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -378,22 +362,6 @@ Section: Tweaks
 Description: Know more than just the current time!
 Author: P2KDev <p2kdev@gmail.com>
 Name: Waqt
-
-Package: wallpaperloader
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: Skitty
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/wallpaperloader_1.1.1_iphoneos-arm.deb
-Size: 11644
-MD5sum: 0d2ec14a603503f9689b469e6008513e
-SHA1: 621a92f632f802a77f1805fb1d96f96822399f4d
-SHA256: 91409f53a3715397d0eb7a8204943589609b910c57c363f4797845ec66dfcdec
-Section: Tweaks
-Description: Add more default wallpapers!
-Author: Skitty
-Name: WallpaperLoader
 
 Package: com.twickd.sarahh12099.youtube-reborn
 Version: 1.0.6.0
