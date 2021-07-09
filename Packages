@@ -1,3 +1,22 @@
+Package: com.spark.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 1.4.20~Beta4
+Installed-Size: 5008
+SHA256: a98bde4179af69362b3d969941c010a26ca05548d0b89e73e7e852a2875b64f1
+SHA1: 65053af13e2cea17ac8342eeb36b47d9faecc2fc
+MD5sum: 1fb582d7e8e2f3093cc0e02b66bb7b07
+Size: 1591782
+Filename: ./debs/1.4.20~Beta4.deb
+
 Name: NookPhone
 Package: com.twickd.j3nra1n.nookphone
 Version: 1.2
