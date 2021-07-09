@@ -1,3 +1,17 @@
+Name: NookPhone
+Package: com.twickd.j3nra1n.nookphone
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Convert your iPhone into a NookPhone
+Maintainer: J3nRa1n <tiffgu3.0@gmail.com>
+Author: J3nRa1n <tiffgu3.0@gmail.com>
+Filename: ./debs/com.twickd.j3nra1n.nookphone_1.2.deb
+MD5sum: 978e341ba3ede8bdf44b6c52dc2f3eb1
+SHA1: 7ed4b93fef728f38ab6130e2ab35ba1553ebf5e9
+SHA256: 2ecc31d0b79ed6d9f69bd8c295862de422aaafa6dfdf096ffa13ed513d15cfa6
+Size: 1313404
+Section: Themes
+
 Package: com.samgisaninja.successionrestore
 Version: 1.4.16~b4
 Architecture: iphoneos-arm
