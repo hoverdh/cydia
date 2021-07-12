@@ -347,6 +347,22 @@ Description: Always latest timeline & remove all promotion posts
 Author: Johnzaro  <johnzrgnns@gmail.com>
 Name: PerfectTwitter
 
+Package: com.udevs.safaritabs14
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware(>=14.0), com.opa334.libundirect (>= 1.1.1)
+Filename: ./debs/com.udevs.safaritabs14_1.0.2_iphoneos-arm.deb
+Size: 3362
+MD5sum: 56f1e5c0b339495daa42d2b9a915fe35
+SHA1: 6cd561809a5125b0b2515f4ec6ee207638bb81e8
+SHA256: 33157111f90993fd420442b8494d5c15f6cada4b3acadb1dacac4ec65bccf316
+Section: Tweaks
+Description: Safari tabs for iPhone on iOS 14.x
+Author: udevs
+Name: SafariTabs14
+
 Package: com.p2kdev.waqt
 Version: 1.1
 Architecture: iphoneos-arm
